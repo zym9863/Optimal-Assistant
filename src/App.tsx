@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import OptionComparator from './components/OptionComparator';
 import IfOnlySimulator from './components/IfOnlySimulator';
